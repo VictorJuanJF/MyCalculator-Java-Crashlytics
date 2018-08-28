@@ -9,4 +9,14 @@
     <string name="calc.btn.five">5</string>
     <string name="calc.btn.two">2</string>
     <string name="calc.btn.zero">0</string>
+    <string name="calc.btn.nine">9</string>
+    <string name="calc.btn.clear">C</string>
+    <string name="calc.btn.six">6</string>
+    <string name="calc.btn.between">÷</string>
+    <string name="calc.btn.multi">x</string>
+    <string name="calc.btn.three">3</string>
+    <string name="calc.btn.sub">-</string>
+    <string name="calc.btn.sum">+</string>
+    <string name="calc.btn.result">=</string>
+    <string name="message_exp_incorrect">La expresión es incorrecta</string>
 </resources>
